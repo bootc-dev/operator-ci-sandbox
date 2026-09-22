@@ -18,7 +18,3 @@ when the appropriate label is applied.
    target release branch.
 
 This works with any existing release branch, no configuration changes needed.
-
-### Available release branches
-
-- `release-v1`
