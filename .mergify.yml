@@ -8,4 +8,5 @@ pull_request_rules:
     conditions:
       - head~=^mergify/bp/
     actions:
-      rebase: {}
+      update:
+        method: rebase
